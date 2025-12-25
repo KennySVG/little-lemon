@@ -1,0 +1,1 @@
+As an improvement to the App, I used what we created from a previous lesson so the Dishes and clickable and launch into a single view with the dish image, details, price, quantity, and a mockup of add to cart.
